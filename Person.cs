@@ -8,5 +8,6 @@ namespace FinalFinal
 {
     internal class Person
     {
+        private int age = 1111;
     }
 }
